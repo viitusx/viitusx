@@ -32,8 +32,6 @@ Currently studying and practicing **backend development**, building real-world p
 - 📦 market admin with python (in progress) 
 - :memo: user manage api
 
-*(Projects under continuous improvement)*
-
 ---
 
 ## 📊 GitHub Stats
