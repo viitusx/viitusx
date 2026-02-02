@@ -22,6 +22,14 @@ Currently studying and practicing backend development, building real-world proje
             src="https://custom-icon-badges.demolab.com/github/followers/viitusx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/viitusx/" target="_blank">
+      <img
+          alt="LinkedIn"
+          title="Meu LinkedIn"
+          src="https://img.shields.io/badge/LinkedIn-viitusx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+</a>
+
 </p>
 
 ---
