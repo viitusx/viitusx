@@ -6,27 +6,20 @@
 I am a Systems Analysis and Development student, focused on becoming a Back-end Developer.
 Currently studying and practicing backend development, building real-world projects to continuously improve my skills and prepare for internship or junior developer opportunities.
 
-
-<p align="left">
-    <a href="https://github.com/viitusx?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/viitusx?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+<p>
+    <a href="https://www.instagram.com/viitusx.dev/" target="_blank">
+      <img
+          alt="Instagram"
+          title="Instagram"
+          src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge"
         />
-    </a>
-    <a href="https://github.com/viitusx?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/viitusx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+</a>
     </a>
     <a href="https://www.linkedin.com/in/viitusx/" target="_blank">
       <img
           alt="LinkedIn"
           title="LinkedIn"
-          src="https://img.shields.io/badge/LinkedIn-viitusx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+          src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
 </a>
 
