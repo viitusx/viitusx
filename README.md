@@ -1,70 +1,93 @@
+# 👨‍💻 Victor Silva
 
-# viitusx
-<div align="center">
+**`Back-end developer`**
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=632A7A&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Victor+Silva;Back-end+Developer+in+training" alt="Typing SVG" />
-</a>
+  About Me
+I am a Systems Analysis and Development student, focused on becoming a Back-end Developer.
+Currently studying and practicing backend development, building real-world projects to continuously improve my skills and prepare for internship or junior developer opportunities.
 
-<br>
 
-<img src="https://img.shields.io/badge/Age-20-grey?style=flat-square">
-<img src="https://img.shields.io/badge/Location-Brazil-grey?style=flat-square">
-
-</div>
-
----
-
-👨‍💻 **About Me**  
-I am a **Systems Analysis and Development** student, focused on becoming a **Back-end Developer**.  
-Currently studying and practicing **backend development**, building real-world projects to continuously improve my skills and prepare for **internship or junior developer opportunities**.
-
----
-
-🚀 **Tech Stack**
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,django,js,mysql,git,github,&theme=dark" />
-</div>
+<p align="left">
+    <a href="https://github.com/viitusx?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/viitusx?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/viitusx?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/viitusx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-📌 **Featured Projects**
-- 📦 market admin with python (in progress) 
-- :memo: user manage api
+### 🤖 Linguagens e Tecnologias
 
----
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  
+/>
+<img 
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
-## 📊 GitHub Stats
+<br/>
+<br/>
 
-<div align="center">
+### 📊 Estatísticas
 
-<img src="https://streak-stats.demolab.com?user=viitusx&theme=midnight-purple&hide_border=true" alt="Streak Stats">
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<br><br>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viitusx&theme=midnight_purple" alt="Profile Details">
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viitusx&theme=midnight_purple">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viitusx&theme=midnight_purple">
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viitusx&theme=midnight_purple">
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=viitusx&style=flat-square&label=PROFILE+VIEWS&color=blueviolet">
-
-<br><br>
-
-<a href="https://www.linkedin.com/viitusx">
-<img src="https://img.shields.io/badge/LinkedIn-Victor_Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
+</p>
