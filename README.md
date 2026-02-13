@@ -79,6 +79,5 @@ Currently studying and practicing backend development, building real-world proje
 />
 </div>
 
-
 <br/>
 <br/>
