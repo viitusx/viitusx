@@ -1,4 +1,4 @@
-# 👨‍💻 Victor Silva
+# Victor Silva
 
 **`Back-end developer`**
 
@@ -27,7 +27,7 @@ Currently studying and practicing backend development, building real-world proje
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <img 
     align="left" 
