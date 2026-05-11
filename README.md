@@ -7,7 +7,7 @@ I am a Systems Analysis and Development student, focused on becoming a Back-end 
 Currently studying and practicing backend development, building real-world projects to continuously improve my skills and prepare for internship or junior developer opportunities.
 
 <p>
-    <a href="https://www.instagram.com/viitusx.dev/" target="_blank">
+    <a href="https://www.instagram.com/viitusx/" target="_blank">
       <img
           alt="Instagram"
           title="Instagram"
@@ -47,6 +47,14 @@ Currently studying and practicing backend development, building real-world proje
 />
 <img 
     align="left" 
+    alt="Flask" 
+    title="Flask"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicons.io/search/?q=flask&icon=flask" 
+/>
+<img 
+    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -68,6 +76,14 @@ Currently studying and practicing backend development, building real-world proje
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+ <img
+    align="left" 
+    alt="SQlite" 
+    title="SQlite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicons.io/search/?q=sqlite&icon=sqlite"  
 />
  <img
     align="left" 
