@@ -47,14 +47,6 @@ Currently studying and practicing backend development, building real-world proje
 />
 <img 
     align="left" 
-    alt="Flask" 
-    title="Flask"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicons.io/search/?q=flask&icon=flask" 
-/>
-<img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -76,14 +68,6 @@ Currently studying and practicing backend development, building real-world proje
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
- <img
-    align="left" 
-    alt="SQlite" 
-    title="SQlite"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicons.io/search/?q=sqlite&icon=sqlite"  
 />
  <img
     align="left" 
