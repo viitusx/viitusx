@@ -7,12 +7,7 @@ I am a Systems Analysis and Development student, focused on becoming a Back-end 
 Currently studying and practicing backend development, building real-world projects to continuously improve my skills and prepare for internship or junior developer opportunities.
 
 <p>
-    <a href="https://www.instagram.com/viitusx/" target="_blank">
-      <img
-          alt="Instagram"
-          title="Instagram"
-          src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge"
-        />
+  
 </a>
     </a>
     <a href="https://www.linkedin.com/in/viitusx/" target="_blank">
